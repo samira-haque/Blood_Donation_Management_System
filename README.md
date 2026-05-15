@@ -10,7 +10,7 @@ Authentication system
 Search donor information
 Dashboard and menu navigation
 Modular shell scripting architecture
-Project Structure
+
 Blood_Donation_Management_System/
 │
 ├── db/
@@ -28,27 +28,10 @@ Blood_Donation_Management_System/
 ├── config.sh
 ├── main.sh
 └── prompt
-Technologies Used
+
+
+Technologies Used:
 Bash Shell Scripting
 Linux/Unix Terminal
 File Handling System
-How to Run
-Step 1: Clone the Repository
-git clone https://github.com/your-username/Blood_Donation_Management_System.git
-Step 2: Navigate to the Project Folder
-cd Blood_Donation_Management_System
-Step 3: Give Execute Permission
-chmod +x main.sh
-Step 4: Run the Project
-./main.sh
-Objectives
-Practice modular shell scripting
-Implement file-based data management
-Develop a menu-driven terminal application
-Understand basic system automation concepts
-Future Improvements
-Database integration
-User-friendly UI
-Admin panel support
-Report generation
-Data validation enhancements
+
